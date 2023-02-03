@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+    /* .moon{
+        width: 100px;
+        height: 100px;
+        animation: anim s infinite;
+        position: absolute;
+        left: 0;
+        top: 0;
+        border-radius: 50%;
+        box-shadow: 10px 10px 10px 10px red;
+    }
+    @keyframes anim {
+        100% {
+            left: 5000px;
+        }
+    } */
